@@ -1,0 +1,13 @@
+baseURL = "https://ygivenx.com/"
+title = "Rohan"
+theme = "PaperMod"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  description = "A blog about productivity, life and Technology"
+  author = "Rohan"
+
+[params.profileMode]
+  enabled = false
