@@ -1,0 +1,5 @@
+name = "ygivenx-com"
+compatibility_date = "2026-10-09"
+
+[assets]
+directory = "./public"
